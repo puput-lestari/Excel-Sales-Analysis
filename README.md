@@ -3,6 +3,9 @@
 ## Project Overview 
 This project analyzes a dataset using Microsoft Excel. 
 
+## Dataset 
+The dataset contains: 
+
 ## Tools Used
 - Microsoft Excel
 - Power Query
